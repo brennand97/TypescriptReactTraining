@@ -5,3 +5,15 @@
 span {
     font-style: italic;
 }
+
+.todo-item {
+    width: 20%;
+}
+
+.completed-item {
+    background-color: grey;
+}
+
+.incompleted-item {
+    background-color: transparent;
+}
